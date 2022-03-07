@@ -9,4 +9,4 @@ run:
 	./build
 
 clean:
-	rm bin
+	rm build
